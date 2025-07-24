@@ -14,14 +14,11 @@ This is a beginner-level data analytics project that explores trending YouTube v
 
 ## 🔍 Key Insights
 - BTS videos like *Fake Love* had the highest likes, often appearing multiple times.
-- We filtered out duplicates to show top 10 **unique** videos by likes.
+- Duplicate titles were removed to show the top 10 **unique** trending videos by likes.
 - Performed basic data cleaning and visualizations.
 
 ## ✅ Files Included
-- `youtube_analysis.ipynb`: Main notebook with code and outputs
+- `youtube_analysis.ipynb`: Main notebook with code and insights
 - `USvideos.csv`: Dataset
-- `README.md`: Project summary (this file)
-
-## ✨ Status
-Beginner project for internship induction (Labmentix, Data Analyst role)
+- `README.md`: Project summary
 
